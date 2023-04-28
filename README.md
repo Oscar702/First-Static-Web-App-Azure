@@ -6,9 +6,11 @@
   <li>Azure subscription </li>
   <li> Github account </li></ul>
   
-  <p> In this turorial we will be creating our first Static Web App on Azure using an html file from a repository in Github.
+  <p> To start you mush have an Azure Portal account. If you don't here is the link https://azure.microsoft.com/en-us/free/ to get $200 worth of credit to use in 30days. You must also have a Github account, if you don't you can easily get an account by going to Github.com.</p>
+  
+  <p>In this turorial we will be creating our first Static Web App on Azure using an html file from a repository in Github.
   First thing is to create a repository on Github. On your browser type copy the following url
-   https://github.com/Oscar702/az-static-web-app/generate.
+   https://github.com/Oscar702/az-static-web-app/generate.</p>
   
   
   <img src="https://i.imgur.com/rzW9oO1.png" alt="Github create repo"/>
