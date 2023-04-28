@@ -63,7 +63,7 @@
  <img src="https://i.imgur.com/hA4J7rD.png" height="50%" width="50%"  alt="select create"/>
   
   
-  <strong>Once deployment is complete select resource</strong>
+  <h2><strong>Once deployment is complete select resource</strong></H2>
   
   
   <img src="https://i.imgur.com/tYGOK2p.png" height="80%" width="80%"  alt="deployment complete"/>
