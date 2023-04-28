@@ -6,7 +6,7 @@
   <li>Azure subscription </li>
   <li> Github account </li></ul>
   
-  <p> In this turorial we will be creating our first Static Web on Azure using a code from a repository in Github.
+  <p> In this turorial we will be creating our first Static Web App on Azure using an html file from a repository in Github.
   First thing is to create a repository on Github. On your browser type copy the following url
    https://github.com/Oscar702/az-static-web-app/generate.
   
@@ -16,7 +16,7 @@
   Next name your repository <strong><em>my-first-Static-web-app</em></strong>
   
   
-  You may select public or private, it's up to you. This for demonstration purposes only.
+  You may select public or private, it's up to you. This is for demonstration purposes only.
   
   Lastly click on <em>Create repository from Template</em>
   
