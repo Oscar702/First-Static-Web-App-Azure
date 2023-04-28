@@ -25,3 +25,9 @@
   First thing is go to Azure Portal and in the search bar type Static Web App. 
   
   <img src="https://i.imgur.com/fg33q65.png" alt="selecting web static app" />
+  
+  Select create new static web app, and fill out the following.
+  
+  <img src="https://i.imgur.com/rgv28rA.png" alt="basics azure"/>
+  
+ 
