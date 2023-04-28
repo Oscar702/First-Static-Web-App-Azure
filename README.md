@@ -40,6 +40,10 @@
   For organization write your Github user name
   For repository write <strong>my-first-static-web-app</strong>
   For branch select main
+  
+  
+  
+  <img src="https://i.imgur.com/HnaOYHR.png" alt="build details"/>
   For Build Details 
   Build Presets select Custom
   App location /src
