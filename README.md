@@ -43,7 +43,7 @@
   
   
   
-  <img src="https://i.imgur.com/HnaOYHR.png" alt="build details"/>
+  <img src="https://i.imgur.com/HnaOYHR.png" height="50%" width="50%"  alt="build details"/>
   For Build Details 
   Build Presets select Custom
   App location /src
@@ -57,13 +57,13 @@
   if all looks good select create
   
   
- <img src="https://i.imgur.com/hA4J7rD.png" alt="select create"/>
+ <img src="https://i.imgur.com/hA4J7rD.png" height="50%" width="50%"  alt="select create"/>
   
   
   Once deployment is complete select resource
   
   
-  <img src="https://i.imgur.com/tYGOK2p.png" alt="deployment complete"/>
+  <img src="https://i.imgur.com/tYGOK2p.png" height="80%" width="80%"  alt="deployment complete"/>
   
   Next you will see the URL that Azure has created for you, click on the URL
   
@@ -71,7 +71,7 @@
   
   Once you click on the URL it should open a new tab and will have something similiar like in the image below
   
-  <img src="https://i.imgur.com/cuwQupn.png" alt="poem"/>
+  <img src="https://i.imgur.com/cuwQupn.png" height="60%" width="60%"  alt="poem"/>
   
   Congratulations on creating your first static web page on azure. 
   as you can see Azure generate a domain name for us, but it is possible to have you own custom domain. First you you will have to purchase a domain name a domain registrar such as Godaddy.com or CheapNames.com Next I suggest you follow visit the following link to see how you can have your preferred domain name on an Azure static web page. https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain?tabs=azure-dns&WT.mc_id=javascript-17844-cxa.
