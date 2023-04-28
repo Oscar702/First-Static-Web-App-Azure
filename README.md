@@ -65,6 +65,14 @@
   
   <img src="https://i.imgur.com/tYGOK2p.png" alt="deployment complete"/>
   
+  Next you will see the URL that Azure has created for you, click on the URL
+  
+  <img src="https://i.imgur.com/YlDzRhH.png" alt="selectURL"/>
+  
+  Once you click on the URL it should open a new tab and will have something similiar like in the image below
+  
+  <img src="https://i.imgur.com/cuwQupn.png" alt="poem"/>
+  
   
   
   
