@@ -24,11 +24,11 @@
   
   <img src="https://i.imgur.com/PvXQRQX.png" alt="github codefiles"/>
   
- Next step is to go to Azure Portal and in the search bar type Static Web App. 
+ <h2><strong>Next step is to go to Azure Portal and in the search bar type Static Web App.<strong></H2> 
   
   <img src="https://i.imgur.com/fg33q65.png" alt="selecting web static app" />
   
-  Select create new static web app, and fill out the following.
+  <h2><strong>Select create new static web app, and fill out the following.</strong></h2>
   
   <img src="https://i.imgur.com/rgv28rA.png" alt="basics azure"/>
   
