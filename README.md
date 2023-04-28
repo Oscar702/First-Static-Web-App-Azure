@@ -60,6 +60,12 @@
  <img src="https://i.imgur.com/hA4J7rD.png" alt="select create"/>
   
   
+  Once deployment is complete select resource
+  
+  
+  <img src="https://i.imgur.com/tYGOK2p.png" alt="deployment complete"/>
+  
+  
   
   
   
