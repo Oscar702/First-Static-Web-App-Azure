@@ -49,7 +49,7 @@
  <b>Build Details</b> 
  
   <br>Build Presets select Custom</br>
-  <br>App location /src</br>
+  <br>App location /src (that is where the HTML file is located)</br>
   <br>leave Api blank</br>
   <br>output location /src</br>
   
