@@ -8,7 +8,7 @@
   
   <p> In this turorial we will be creating our first Static Web on Azure using a code from a repository in Github.
   First thing is to create a repository on Github. On your browser type copy the following url
-   https://git.hub.com/Oscar702/az-static-web-app/generate.
+   https://github.com/Oscar702/az-static-web-app/generate.
   
   Next name your repository My-first-Static-webapp
   
