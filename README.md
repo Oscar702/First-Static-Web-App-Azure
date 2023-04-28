@@ -38,15 +38,15 @@
   <br>For Hosting Plan select Free</br>
   <br>Then select the region that is closest to you</br>
   <br>For deployment details, source select Github
-    You might have to sign in to your Github account if this your first time usin Github on Azure</br>
+    (You might have to sign in to your Github account if this your first time using Github on Azure)</br>
   <br>For organization write your Github user name</br>
   <br>For repository write <strong>my-first-static-web-app</strong></br>
   <br>For branch select main</b>
   
   
   
-  <img src="https://i.imgur.com/HnaOYHR.png" height="50%" width="50%"  alt="build details"/>
- <b>Build Details</b> 
+  <img src="https://i.imgur.com/HnaOYHR.png" height="70%" width="70%"  alt="build details"/>
+ <p>Build Details</p> 
  
   <br>Build Presets select Custom</br>
   <br>App location /src (that is where the HTML file is located)</br>
@@ -60,7 +60,7 @@
   if all looks good select create
   
   
- <img src="https://i.imgur.com/hA4J7rD.png" height="50%" width="50%"  alt="select create"/>
+ <img src="https://i.imgur.com/hA4J7rD.png" height="70%" width="70%"  alt="select create"/>
   
   
   <h2><strong>Once deployment is complete select resource</strong></H2>
