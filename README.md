@@ -10,7 +10,7 @@
   First thing is to create a repository on Github. On your browser type copy the following url
    https://github.com/Oscar702/az-static-web-app/generate.
   
-  Next name your repository My-first-Static-webapp
+  Next name your repository <em>my-first-Static-web-app</em>
   
   First thing is go to Azure Portal and in the search bar type Static Web App. 
   
