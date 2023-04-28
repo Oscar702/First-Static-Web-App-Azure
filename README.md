@@ -45,10 +45,11 @@
   
   <img src="https://i.imgur.com/HnaOYHR.png" height="50%" width="50%"  alt="build details"/>
  <b>Build Details</b> 
-  Build Presets select Custom
-  App location /src
-  leave Api blank
-  output location /src
+ 
+  <br>Build Presets select Custom</br>
+  <br>App location /src</br>
+  <br>leave Api blank</br>
+  <br>output location /src</br>
   
   
   
