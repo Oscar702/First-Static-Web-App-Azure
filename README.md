@@ -30,21 +30,21 @@
   
   <img src="https://i.imgur.com/rgv28rA.png" alt="basics azure"/>
   
-  For Resource Group, select create new and name it Static Web App
+  <br> For Resource Group, select create new and name it Static Web App</br>
   
-  For Static web app details name it <em>my-first-static-web-app</em>
-  For Hosting Plan select Free
-  Then select the region that is closest to you
-  For deployment-source details select Github
-  You might have to sign in to your Github account if this your first time usin Github on Azure
-  For organization write your Github user name
-  For repository write <strong>my-first-static-web-app</strong>
-  For branch select main
+  <br>For Static web app details name it <em>my-first-static-web-app</em></br>
+  <br>For Hosting Plan select Free</br>
+  <br>Then select the region that is closest to you</br>
+  <br>For deployment-source details select Github
+    You might have to sign in to your Github account if this your first time usin Github on Azure</br>
+  <br>For organization write your Github user name</br>
+  <br>For repository write <strong>my-first-static-web-app</strong></br>
+  <br>For branch select main</b>
   
   
   
   <img src="https://i.imgur.com/HnaOYHR.png" height="50%" width="50%"  alt="build details"/>
-  For Build Details 
+ <b>Build Details</b> 
   Build Presets select Custom
   App location /src
   leave Api blank
