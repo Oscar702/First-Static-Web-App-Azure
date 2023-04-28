@@ -30,4 +30,10 @@
   
   <img src="https://i.imgur.com/rgv28rA.png" alt="basics azure"/>
   
+  For Resource Group, select create new and name it Static Web App
+  
+  For Static web app details name it <em>my-first-static-web-app</em>
+  
+  
+  
  
