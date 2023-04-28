@@ -40,6 +40,11 @@
   For organization write your Github user name
   For repository write <strong>my-first-static-web-app</strong>
   For branch select main
+  For Build Details 
+  Build Presets select Custom
+  App location /src
+  leave Api blank
+  output location /src
   
   
   
