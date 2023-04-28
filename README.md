@@ -33,6 +33,15 @@
   For Resource Group, select create new and name it Static Web App
   
   For Static web app details name it <em>my-first-static-web-app</em>
+  For Hosting Plan select Free
+  Then select the region that is closest to you
+  For deployment-source details select Github
+  You might have to sign in to your Github account if this your first time usin Github on Azure
+  For organization write your Github user name
+  For repository write <strong>my-first-static-web-app</strong>
+  For branch select main
+  
+  
   
   
   
