@@ -37,7 +37,7 @@
   <br>For Static web app details name it <em>my-first-static-web-app</em></br>
   <br>For Hosting Plan select Free</br>
   <br>Then select the region that is closest to you</br>
-  <br>For deployment-source details select Github
+  <br>For deployment details, source select Github
     You might have to sign in to your Github account if this your first time usin Github on Azure</br>
   <br>For organization write your Github user name</br>
   <br>For repository write <strong>my-first-static-web-app</strong></br>
