@@ -22,7 +22,7 @@
   
   <img src="https://i.imgur.com/PvXQRQX.png" alt="github codefiles"/>
   
-  First thing is go to Azure Portal and in the search bar type Static Web App. 
+ Next step is to go to Azure Portal and in the search bar type Static Web App. 
   
   <img src="https://i.imgur.com/fg33q65.png" alt="selecting web static app" />
   
