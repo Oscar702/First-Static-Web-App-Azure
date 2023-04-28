@@ -73,6 +73,11 @@
   
   <img src="https://i.imgur.com/cuwQupn.png" alt="poem"/>
   
+  Congratulations on creating your first static web page on azure. 
+  as you can see Azure generate a domain name for us, but it is possible to have you own custom domain. First you you will have to purchase a domain name a domain registrar such as Godaddy.com or CheapNames.com Next I suggest you follow visit the following link to see how you can have your preferred domain name on an Azure static web page. https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain?tabs=azure-dns&WT.mc_id=javascript-17844-cxa.
+  
+  Well that is it for this tutorial, if you do not wish to keep your static web app I suggest you delete your entire resource group so you do not accrue any charges.
+  
   
   
   
