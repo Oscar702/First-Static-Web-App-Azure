@@ -12,6 +12,11 @@
   
   Next name your repository <strong><em>my-first-Static-web-app</em></strong>
   
+  
+  You may select public or private, it's up to you. This for demonstration purposes only.
+  
+  Lastly click on <em>Create repository from Template</em>
+  
   First thing is go to Azure Portal and in the search bar type Static Web App. 
   
   <img src="https://i.imgur.com/fg33q65.png" alt="selecting web static app" />
